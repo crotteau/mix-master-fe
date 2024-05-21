@@ -10,6 +10,7 @@ Mix Master eases the stress of entertaining by providing a myriad of cocktail an
 
 ## Preview
 ### Deployed Link - [Mix Master](https://mix-master-fe.vercel.app/)
+Content may load slowly - AWS server sleeps after periods of inactivity
 
 ![Homepage](https://github.com/lalonggone/mix-master-fe/assets/149750476/867ca92e-964c-4fab-af5b-272b9025842e)
 ![Cocktial Recipe Grid](https://github.com/lalonggone/mix-master-fe/assets/149750476/db3d20fa-bd19-4401-8cbe-b3c67eab0c1a)
