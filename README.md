@@ -12,9 +12,9 @@ Mix Master eases the stress of entertaining by providing a myriad of cocktail an
 ### Deployed Link - [Mix Master](https://mix-master-fe.vercel.app/)
 Content may load slowly - AWS server sleeps after periods of inactivity
 
-![Homepage](https://github.com/lalonggone/mix-master-fe/assets/149750476/867ca92e-964c-4fab-af5b-272b9025842e)
-![Cocktial Recipe Grid](https://github.com/lalonggone/mix-master-fe/assets/149750476/db3d20fa-bd19-4401-8cbe-b3c67eab0c1a)
-![Cocktail Details](https://github.com/lalonggone/mix-master-fe/assets/149750476/f1f09636-b8b4-4c82-ad2e-30f6898bc9dc")
+<img width="1664" alt="mixmaster1" src="https://github.com/crotteau/mix-master-fe/assets/149750476/5da76f2e-61c2-44e1-bd53-b416592e7f91">
+<img width="1663" alt="Screenshot 2024-06-27 at 2 39 16 PM" src="https://github.com/crotteau/mix-master-fe/assets/149750476/36295aab-58f8-413e-a48a-72ec8e0bd229">
+
 
 ## Technologies Used
 <div>
